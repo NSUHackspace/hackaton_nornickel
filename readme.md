@@ -24,4 +24,5 @@ Project structure:
     from videos
 
     neural_segmentation directory:
-	Not very fast, but robust froth size classifier
+	Not very fast, but robust froth size classifier 
+	Upd: https://github.com/ArtemBoyarintsev/nornickel_hackaton
